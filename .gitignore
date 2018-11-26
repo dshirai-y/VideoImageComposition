@@ -1,0 +1,81 @@
+.DS_Store
+# built application files
+*.apk
+*.ap_
+ 
+# files for the dex VM
+*.dex
+ 
+# Java class files
+*.class
+ 
+# generated files
+bin/
+gen/
+ 
+# Local configuration file (sdk path, etc)
+local.properties
+ 
+# eclipse settings
+.classpath
+.project
+.settings/
+
+# gradle files
+.gradle/
+build/
+
+
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+ .externalToolBuilders/
+
+# # Locally stored "Eclipse launch configurations"
+ *.launch
+
+# # CDT-specific
+ .cproject
+
+# # PDT-specific
+ .buildpath
+
+cache_image
+
+
+# Android Studio
+.idea/
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+
+YappliPreview/*.keystore
+YappliPreview/gradle.properties
+YappliSDK/gradle.properties
+/gradle.properties
+
+# notifier
+notifier.groovy
+
+# fabric / crashlytics
+fabric.properties
